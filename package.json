@@ -19,7 +19,7 @@
     "whatsapp-multi-device"
   ],
   "base": "https://github.com/harshitethic/whatsapp-turbo-gpt",
-  "author": "Harshit Sharma",
+  "author": "Lucifer Morningstar",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.7",
