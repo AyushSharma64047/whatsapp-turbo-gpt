@@ -1,6 +1,6 @@
 const sessionName = "harshitethic";
 const donet = "https://harshitethic.in";
-const owner = ["918708056374"]; // Put your number here ex: ["91xxxxxxxxx"]
+const owner = ["918822386908"]; // Put your number here ex: ["91xxxxxxxxx"]
 const {
   default: sansekaiConnect,
   useMultiFileAuthState,
